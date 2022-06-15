@@ -30,8 +30,7 @@ border-color: rgb(184, 18, 101);
   font-style: italic;
 }
 footer{
-  position:absolute;
-  width: 100%;
+   width: 100%;
   text-align: center;
   padding: 2rem;
   bottom: 0;
