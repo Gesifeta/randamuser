@@ -18,7 +18,6 @@ header h1{
   padding: 1rem;
   float: left;
   
- 
 }
 .notes h2{
 border-bottom-style: solid;
@@ -31,7 +30,7 @@ border-color: rgb(184, 18, 101);
   font-style: italic;
 }
 footer{
-  position:relative;
+  position:absolute;
   width: 100%;
   text-align: center;
   padding: 2rem;
